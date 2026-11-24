@@ -1,0 +1,2 @@
+# AI-PRATICALS
+AI
